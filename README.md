@@ -29,3 +29,6 @@ Build practical AI engineering systems that demonstrate the ability to design, d
 ---
 
 More projects coming soon.
+
+## My AI Engineering Journey
+I am building hands-on AI engineering projects and documenting my learning journey.
